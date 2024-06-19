@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Spam Email Check",
+  "version": "1.0",
+  "description": "A Chrome extension to classify spam emails using machine learning.",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage",
+    "activeTab"
+  ]
+}
