@@ -1,5 +1,5 @@
 # Spam email extension
- Run 'Build Model.ipynb' file to build model.
+ Run 'model.ipynb' file to build model.
 
  In terminal write 'python app.py' to run extension.
 
